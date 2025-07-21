@@ -1,0 +1,7 @@
+Flask
+selenium
+requests
+gunicorn
+webdriver-manager
+flask_cors
+beautifulsoup4
